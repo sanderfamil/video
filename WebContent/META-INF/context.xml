@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+<!--<Resource name="jdbc/video"
+type="javax.sql.DataSource"
+driverClassName="com.mysql.jdbc.Driver"
+url="jdbc:mysql://localhost/video"
+username="gebruiker"
+password="gebruiker"
+auth="Container"
+factory="org.apache.tomcat.jdbc.pool.DataSourceFactory"
+validationInterval="60000"
+testOnBorrow="true"
+validationQuery="select 1"/>--></Context>
